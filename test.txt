@@ -1,3 +1,2 @@
 This is test file.
-
 This modified by logmyself. (CAT-009)
