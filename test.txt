@@ -4,3 +4,4 @@ Hmm...
 $Commit message change test
 first..
 second..
+third..
