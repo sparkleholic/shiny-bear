@@ -2,3 +2,4 @@ This is test file.
 This modified by logmyself. (CAT-009)
 Hmm...
 $Commit message change test
+first..
