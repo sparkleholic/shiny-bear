@@ -4,3 +4,4 @@ This modified by logmyself. (CAT-009)
 Commit message change test
 
 This is test file from TEST branch.
+This is modified on TEST branch.
