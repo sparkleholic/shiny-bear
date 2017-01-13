@@ -2,3 +2,6 @@ This is test file.
 This modified by logmyself. (CAT-009)
 
 Commit message change test
+first
+second
+third
